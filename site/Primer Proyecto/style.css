@@ -1,0 +1,79 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-color: gray;
+    font-size: 130%;
+    background: url('carcel.jpg');
+    background-size: 1000px;
+    }
+h1 {
+    margin: 15px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+h2 {
+    color: whitesmoke;
+    font-size: 36 px;
+    text-align: center;
+}
+
+.highlight {
+    text-align: center;
+    font-size: 15px;
+    color: whitesmoke;
+    font-weight: bold;
+    font-style: normal;
+    opacity: .9;
+    overflow: auto; 
+    }
+
+.prehigh {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+}
+ 
+p.big {
+    font-size: 20px;
+}
+
+a:link, a:visited {
+    background-color: blueviolet;
+    border: 2px solid blue;
+    color: black;
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 1px;
+}
+ section li:nth-child(1)  { 
+    background-color: darkcyan;
+    font: size 20px;
+    width: 200px;
+}
+div {
+    font-size: 90%;
+}
+div.pregunta {
+    font: bolder;
+}
+a  {
+    font-size: 70%;
+}
+#prueba1 {
+    color: tomato;
+    float: left;
+    clear: both;
+}
+
+#prueba2 {
+    color:violet;
+    float: right;
+    clear: both;
+}
