@@ -5,3 +5,12 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+body {
+  background-color: gray;
+  font-size: 130%;
+  background: url('carcel.jpg');
+  background-size: 1000px;
+  background-repeat: initial;
+  color: whitesmoke;
+  }
+  
